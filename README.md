@@ -61,9 +61,7 @@ public class NewBehaviourScript : MonoBehaviour
 ```
 ## Output:
 
-![image](https://github.com/MIRUDHULA-DHANARAJ/Rotating-the-Gaming-Object/assets/94828147/b21a309b-b42b-41e9-b12a-255026a86792)
-
-![image](https://github.com/MIRUDHULA-DHANARAJ/Rotating-the-Gaming-Object/assets/94828147/661eb12b-f557-4252-9a3b-7c36ad9f3018)
+![image](https://github.com/Lingeswaran04/Rotating-the-Gaming-Object/assets/119103865/084566f1-654e-4311-a764-247afaf6fa9f)
 
 
 ## Result:
